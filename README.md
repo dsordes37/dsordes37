@@ -1,10 +1,10 @@
-# Hello !! I'm D'Sordes 👨‍💻
+# Hello !! I'm D'Sordes 🌘
 
-🌱 I'm currently learning more about how to stand out in my field and evolve professionally 🌱
+🌘 I'm currently learning more about how to stand out in my field and evolve professionally 🌒
 
 ##
 
-### experience in using
+### experience in using 🌓
 
 <div>
 <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
@@ -19,7 +19,7 @@
 
 ##
 
-### contact me
+### contact me 🌗
 
 <div>
   <a href = "mailto:dsordesdinho342@gmail.com">
