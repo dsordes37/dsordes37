@@ -2,7 +2,9 @@
 
 🌱 I'm currently learning more about how to stand out in my field and evolve professionally 🌱
 
-## experience in using
+##
+
+### experience in using
 
 <div>
 <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
@@ -10,16 +12,19 @@
 <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
 <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>
 <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
-<img src='	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'>
+<img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'>
 <img src='https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white'>
 <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'>
 </div>
 
-## contact me
+##
+
+### contact me
 
 <div>
-<a href="mailto:dsordesdinho342@gmail.com" target="_blank"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
-
+  <a href = "mailto:dsordesdinho342@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 ##
