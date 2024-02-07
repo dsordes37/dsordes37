@@ -36,8 +36,7 @@
 ##
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dsordes37&repo=rick_and_morty_api&show_icons=true&theme=transparent&border_color=0464ed)](https://github.com/dsordes37/rick_and_morty_api)
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dsordes37&repo=museuholocausto&show_icons=true&theme=transparent&border_color=0464ed)](https://github.com/dsordes37/museuholocausto)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=dsordes37&repo=pokedex&show_icons=true&theme=transparent&border_color=0464ed)](https://github.com/dsordes37/pokedex)
 
 
 
