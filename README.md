@@ -1,4 +1,4 @@
-# Hello !! I'm D'Sordes 🌘
+# Hello !! I'm D'Sordes 🌕
 
 🌘 I'm currently learning more about how to stand out in my field and evolve professionally 🌒
 
