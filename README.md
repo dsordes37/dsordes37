@@ -7,15 +7,15 @@
 ### experience in using 🌓
 
 <div>
-<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
+<img src='https://img.shields.io/badge/HTML5-ff3700?style=for-the-badge&logo=html5&logoColor=white'>
+<img src='https://img.shields.io/badge/CSS3-001eff?style=for-the-badge&logo=css3&logoColor=white'>
 <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
-<img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>
+<img src='https://img.shields.io/badge/Bootstrap-5500ff?style=for-the-badge&logo=bootstrap&logoColor=white'>
 <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
-<img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'>
-<img src='https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white'>
-<img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'>
-</div>
+<img src='https://img.shields.io/badge/Figma-001eff?style=for-the-badge&logo=figma&logoColor=white'>
+<img src='https://img.shields.io/badge/gimp-ff3700?style=for-the-badge&logo=gimp&logoColor=white'>
+<img src='https://img.shields.io/badge/Visual_Studio_Code-001eff?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'>
+<img src='https://img.shields.io/badge/angular-d10217?style=for-the-badge&logo=angular&logoColor=white'>
 
 ##
 
